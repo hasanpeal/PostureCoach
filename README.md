@@ -1,4 +1,4 @@
-# PostureCoach 
+# PostureCoach 🤖
 
 > **Currently in development** 👨‍💻
 
