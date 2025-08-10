@@ -1,0 +1,9 @@
+train: /Users/pealhasan/Desktop/posture-detection/posture-dataset/train/images
+val: /Users/pealhasan/Desktop/posture-detection/posture-dataset/valid/images
+test: /Users/pealhasan/Desktop/posture-detection/posture-dataset/test/images
+
+kpt_shape: [4, 3]
+flip_idx: [0, 1, 2, 3]
+
+nc: 2
+names: ['Bad', 'Good']
