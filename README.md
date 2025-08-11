@@ -108,10 +108,10 @@ PostureCoach/
 
 ### **Deployment Readiness**
 
-- **✅ Model Size**: Nano architecture suitable for edge devices
-- **✅ Format Support**: ONNX export for optimized inference
-- **✅ Performance**: Exceeds typical production thresholds (>95% accuracy)
-- **✅ Robustness**: Validated on diverse posture scenarios
+- **Model Size**: Nano architecture suitable for edge devices
+- **Format Support**: ONNX export for optimized inference
+- **Performance**: Exceeds typical production thresholds (>95% accuracy)
+- **Robustness**: Validated on diverse posture scenarios
 
 ## Model Performance
 
